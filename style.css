@@ -31,7 +31,7 @@ body{
 }
 .addTask button{
 	margin: 0 10px;
-	background: #222;
+	background: rgb(245, 243, 134);
 	color: #fff;
 	font-size: 18px;
 	text-transform: uppercase;
